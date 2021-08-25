@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Numerology
+comment1.params=
+comment1.target=void\ zodiac()
+comment2.params=
+comment2.target=int\ Outer()
+comment3.params=
+comment3.target=int\ life()
+comment4.params=var
+comment4.target=void\ display(int)
+numComments=5
