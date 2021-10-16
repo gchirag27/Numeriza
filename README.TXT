@@ -12,7 +12,7 @@ PROGRAMMING LANGUAGE: Java
 IDE: BlueJ
 
 HOW TO START THIS PROJECT: If you have BlueJ installed, open the file named package. Compile and run the class named Project. If BlueJ is not installed, just run the java source file named Project on a java IDE.
-If you want to run it on a command line, download a java compiler (preferably use JDK). In the command line, be in the same directory as the Project.java file and run the command 'java Project.java'
+If you want to run it on a command line, download a java compiler (preferably use JDK). In the command line, be in the same directory as the Project.java file and run the command 'javac Project.java' to complie the program and then run the command 'java Project' to run the program.
 
 INTRODUCTION TO THE PROJECT:
 The project is developed on the basis of providing various options to the user (menu driven program) from which they need to select any one at a time. The options available are Numerology, Shopping and a Quiz.
